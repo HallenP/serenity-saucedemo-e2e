@@ -32,4 +32,3 @@ mvn clean install -DskipTests
 AUTOR
 Hallen Lluglla
 
-Sin embargo, el proyecto queda correctamente estructurado y listo para ejecutarse en un entorno adecuado.
