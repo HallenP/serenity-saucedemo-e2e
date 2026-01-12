@@ -1,0 +1,18 @@
+CONCLUSIONES DEL PROYECTO
+
+Durante el desarrollo de este proyecto se logró:
+
+-Comprender la estructura de un proyecto de automatización E2E.
+-Implementar el patrón Page Object Model (POM) para mantener el código
+   organizado y escalable.
+-Configurar dependencias Maven y entender el flujo de ejecución
+   de pruebas automatizadas.
+
+LIMITACIONES
+El proyecto no pudo ejecutarse localmente debido a:
+- Limitaciones de memoria del equipo
+- Imposibilidad de instalar JDK completo
+
+APRENDIZAJE
+Este ejercicio permitió fortalecer habilidades en Automatización y Análisis de errores Maven.
+
